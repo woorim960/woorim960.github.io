@@ -1,14 +1,22 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "카테고리"
+    url: "/categories/"
+  - title: "태그"
+    url: "/tags/"
+  - title: "검색"
+    url: "/search/"
+
+docs:
+  - title: "카테고리"
+    children:
+      - title: "개발"
+        url: "/categories/#개발"
+      - title: "데일리_인사이트"
+        url: "/categories/#데일리_인사이트"
+  - title: "태그"
+    children:
+      - title: "객체지향"
+        url: "/tags/#객체지향"
+      - title: "기타"
+        url: "/tags/#기타"
