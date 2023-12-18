@@ -18,5 +18,7 @@ docs:
     children:
       - title: "객체지향"
         url: "/tags/#객체지향"
+      - title: "애자일"
+        url: "/tags/#애자일"
       - title: "기타"
         url: "/tags/#기타"
