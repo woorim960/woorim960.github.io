@@ -14,6 +14,8 @@ docs:
         url: "/categories/#개발"
       - title: "데일리_인사이트"
         url: "/categories/#데일리_인사이트"
+      - title: "리뷰"
+        url: "/categories/#리뷰"
   - title: "태그"
     children:
       - title: "객체지향"
