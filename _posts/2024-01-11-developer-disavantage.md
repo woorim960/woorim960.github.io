@@ -15,6 +15,8 @@ sidebar:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/_BEwumVzjuA" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
 안녕하세요, 코딩하는 크리에이터 우리밋입니다! 오늘은 개발자로 살면서 겪는 다양한 변화와 어려움들을 이야기해보려고 합니다. 물론, 개발자로서의 삶은 흥미진진하고 보람차지만, 그림자처럼 따라다니는 어둠도 있어요.
 
 # 야근
