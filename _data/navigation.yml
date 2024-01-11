@@ -22,5 +22,7 @@ docs:
         url: "/tags/#객체지향"
       - title: "애자일"
         url: "/tags/#애자일"
+      - title: "개발자"
+        url: "/tags/#개발자"
       - title: "기타"
         url: "/tags/#기타"
