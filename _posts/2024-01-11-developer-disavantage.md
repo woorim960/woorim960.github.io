@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "개발자로 살아가면서 겪는 현실, 그 뒤에 숨은 이야기"
+title: "[개발자 단점] 개발자로 살아가면서 겪는 현실, 그 뒤에 숨은 이야기"
 categories: "데일리_인사이트"
 tags: ["개발자"]
 toc: true
