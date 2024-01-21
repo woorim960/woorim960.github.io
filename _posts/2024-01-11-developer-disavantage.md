@@ -13,7 +13,15 @@ sidebar:
   부제: "야근, 건강, 꿈 그리고 토론의 세계"
 </div>
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/_BEwumVzjuA" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/_BEwumVzjuA"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
 
 <br>
 

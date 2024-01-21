@@ -13,8 +13,17 @@ sidebar:
   부제: "소프트웨어 개발의 즐거움과 도전을 통한 자아실현"
 </div>
 
-개발자가 되고나서 느낀 안좋은 점들이 궁금한 분들은 아래 링크를 참고해주세요.  
-<a href="https://woorim960.github.io/%EB%8D%B0%EC%9D%BC%EB%A6%AC_%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/developer-disavantage">개발자로 살아가면서 겪는 현실, 그 뒤에 숨은 이야기</a>
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/mWZmIn9Vi9g"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+개발자가 되고나서 느낀 안좋은 점들이 궁금한 분들은 다음 링크를 참고해주세요. <a href="https://woorim960.github.io/%EB%8D%B0%EC%9D%BC%EB%A6%AC_%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8/developer-disavantage">개발자로 살아가면서 겪는 현실, 그 뒤에 숨은 이야기</a>
 
 <br>
 
